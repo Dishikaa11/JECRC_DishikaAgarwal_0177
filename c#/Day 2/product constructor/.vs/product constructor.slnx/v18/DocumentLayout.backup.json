@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dishi\\OneDrive\\Desktop\\c#\\product constructor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C82A29-8D71-40AF-9DB8-04333333F15F}|product constructor\\product constructor.csproj|c:\\users\\dishi\\onedrive\\desktop\\c#\\product constructor\\product constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4C82A29-8D71-40AF-9DB8-04333333F15F}|product constructor\\product constructor.csproj|solutionrelative:product constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dishi\\OneDrive\\Desktop\\c#\\product constructor\\product constructor\\Program.cs",
+              "RelativeDocumentMoniker": "product constructor\\Program.cs",
+              "ToolTip": "C:\\Users\\dishi\\OneDrive\\Desktop\\c#\\product constructor\\product constructor\\Program.cs*",
+              "RelativeToolTip": "product constructor\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T10:38:40.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

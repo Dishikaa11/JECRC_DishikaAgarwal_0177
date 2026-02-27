@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\object.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\object.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\object.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\bin\Debug\net10.0\object.exe
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\bin\Debug\net10.0\object.deps.json
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\bin\Debug\net10.0\object.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\bin\Debug\net10.0\object.dll
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\bin\Debug\net10.0\object.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\object.dll
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\refint\object.dll
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\object.pdb
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\object.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\c#\object\object\obj\Debug\net10.0\ref\object.dll
