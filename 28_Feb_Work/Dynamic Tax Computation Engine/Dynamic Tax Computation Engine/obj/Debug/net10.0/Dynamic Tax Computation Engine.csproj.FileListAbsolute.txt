@@ -1,0 +1,14 @@
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\bin\Debug\net10.0\Dynamic Tax Computation Engine.exe
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\bin\Debug\net10.0\Dynamic Tax Computation Engine.deps.json
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\bin\Debug\net10.0\Dynamic Tax Computation Engine.runtimeconfig.json
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\bin\Debug\net10.0\Dynamic Tax Computation Engine.dll
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\bin\Debug\net10.0\Dynamic Tax Computation Engine.pdb
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\Dynamic Tax Computation Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\Dynamic Tax Computation Engine.AssemblyInfoInputs.cache
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\Dynamic Tax Computation Engine.AssemblyInfo.cs
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\Dynamic Tax Computation Engine.csproj.CoreCompileInputs.cache
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\Dynamic Tax Computation Engine.dll
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\refint\Dynamic Tax Computation Engine.dll
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\Dynamic Tax Computation Engine.pdb
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\Dynamic Tax Computation Engine.genruntimeconfig.cache
+C:\Users\dishi\OneDrive\Desktop\JavaScript_Training\DAY_9\Dynamic Tax Computation Engine\Dynamic Tax Computation Engine\obj\Debug\net10.0\ref\Dynamic Tax Computation Engine.dll
